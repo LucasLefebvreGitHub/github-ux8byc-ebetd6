@@ -6,18 +6,18 @@
     display: flex;
     flex-direction: column;
     align-items: left;
-	background-image: url('$lib/images/Image4.jpg');
+	background-image: url('$lib/images/Image15.png');
     background-size: cover;
     color: black;
-    padding: 300px;
+    padding: 330px;
     background-position:center;
-    width: 100%;
+    width: 135%;
   }
   .title {
     color: #fff;
     position: absolute;
     overflow: hidden;
-    top: 30%;
+    top: 40%;
     -webkit-transform: translate3d(0, -50%, 50);
     transform: translate3d(0, -50%, 0);
     z-index: 200;
@@ -73,7 +73,7 @@
 	<div class="title">	
               <h2 class="title__text">Lucas <br> Lefebvre</h2>
               <div class="border js-toRight"><span></span><span></span></div>
-              <p class="title__lead">Apprenti ingénieur<br></p>
+              <p class="title__lead">Apprentice engineer<br></p>
               <div class="btn-wrap" style="transform: translateY(0%);">
 							</div>
   </div>

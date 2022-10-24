@@ -12,5 +12,6 @@
 	],
 	"aboutme": [
 		"src/routes/aboutme/+page.js"
-	]
+	],
+	"Works": []
 }

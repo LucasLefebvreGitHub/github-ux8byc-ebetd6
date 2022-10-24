@@ -21,7 +21,8 @@
 
 
 .header {
-	top:50px;
+  position: fixed;
+	top:0px;
 	margin:-10px;
   padding: 40px;
   width:100%;
@@ -34,7 +35,7 @@
 
 .footer {
 	margin:-10px;
-  position: absolute;
+  position: fixed;
  	bottom: 0;
   width: 100%;
   background-color: black;
@@ -63,7 +64,7 @@
 .sidepanel a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 100px;
+  font-size: 60px;
   color: white;
   display: block;
   transition: 0.3s;
@@ -77,7 +78,7 @@
   position: flex;
   top: 0;
   right: 25px;
-  font-size: 36px;
+  font-size: 100px;
 }
 
 .openbtn {

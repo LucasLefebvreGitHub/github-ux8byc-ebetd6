@@ -1,4 +1,3 @@
-import * as shared from "../../../src/routes/sverdle/how-to-play/+page.js";
+import * as shared from "../../../src/routes/aboutme/+page.js";
 export { shared };
-export { default as component } from "../../../src/routes/sverdle/how-to-play/+page.svelte";
-export const server = true;
+export { default as component } from "../../../src/routes/aboutme/+page.svelte";
