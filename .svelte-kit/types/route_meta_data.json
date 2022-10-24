@@ -1,0 +1,16 @@
+{
+	"": [
+		"src/routes/+page.js"
+	],
+	"about": [
+		"src/routes/about/+page.js"
+	],
+	"sverdle": [],
+	"sverdle/how-to-play": [
+		"src/routes/sverdle/how-to-play/+page.js",
+		"src/routes/sverdle/how-to-play/+page.server.js"
+	],
+	"aboutme": [
+		"src/routes/aboutme/+page.js"
+	]
+}
