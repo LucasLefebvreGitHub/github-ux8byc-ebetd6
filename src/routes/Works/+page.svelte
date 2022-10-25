@@ -59,6 +59,17 @@
     font-size: 2.4rem;
 }
 
+header h3{
+      position: flex;
+	top:0px;
+	margin:-10px;
+  padding: 40px;
+  width:100%;
+  text-align: left;
+  background: black;
+  color: white;
+}
+
 
 </style> 
 
@@ -78,5 +89,12 @@
 							</div>
   </div>
 
+
+	<header> 
+    <h3></h3>
+	</header>
+    
+    <p class="title__lead">Apprentice engineer<br></p><p class="title__lead">Apprentice engineer<br></p>
+    <p class="title__lead">Apprentice engineer<br></p>
 
 </div> 
